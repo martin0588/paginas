@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: darkblue;
+    margin: 0;
+    padding: 40px;
+    border: 5px solid darkblue;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
